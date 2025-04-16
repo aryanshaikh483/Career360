@@ -1,0 +1,891 @@
+[
+  {
+    "question": "Prefer working alone rather than in groups.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Find big social events tiring.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Like having deep talks one-on-one more than in groups.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Need time alone to recharge after being social.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Try to avoid small talk.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Listen more than talk in groups.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Feel uneasy at networking events.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Watch and observe before joining group activities.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Like participating in group activities.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Can easily start conversations with new people.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Feel energized after socializing.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Enjoy being in the spotlight.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Prefer talking face-to-face instead of writing.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Often start conversations with others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Feel at ease at networking events.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Like working on team projects.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Prefer brainstorming with others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Think out loud during discussions.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "interpersonal_skills",
+    "field": null
+  },
+  {
+    "question": "Handle stress better when working alone.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Think about things before reacting.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Avoid stressful situations if you can.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Keep your feelings private when stressed.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Plan and organize how you respond to stress.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Need time alone to regain your composure after stress.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Prefer lively environments during stress.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Express your emotions openly when stressed.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Seek help from others when stressed.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Enjoy facing challenges directly.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "React quickly to stressful situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Prefer talking through problems with others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Feel energized by busy and fast-paced places.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "stress_handling",
+    "field": null
+  },
+  {
+    "question": "Lead by setting a good example.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Prefer to delegate tasks rather than lead directly.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Excel at giving thoughtful advice to people.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Think carefully before making decisions.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Value team agreement when making decisions.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Take time to earn trust from team members.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Focus on long-term goals and planning.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Value feedback and suggestions from the team.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Enjoy taking charge and leading others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Motivate team members with enthusiastic support.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Make decisions quickly in fast-moving situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Enjoy leading group discussions and brainstorming.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Prefer direct and assertive communication.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Thrive on setting and reaching ambitious goals.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Quickly adapt to new situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Enjoy motivating the team to reach shared goals.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "leadership",
+    "field": null
+  },
+  {
+    "question": "Prefer to avoid confrontations.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Feel uncomfortable asserting authority.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Value harmony and avoid conflict.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Tend to back down in confrontational situations.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Prioritize peaceful resolution over being right.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Find it challenging to take control in group settings.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Prefer others to take the lead in decision-making.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Avoid taking risks that might lead to conflict.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Feel confident asserting authority when needed.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Comfortably handle confrontations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Prefer taking control in group settings.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Assertively express opinions even if they are unpopular.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Feel comfortable making decisions for others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Quickly take action in high-pressure situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Thrive on taking risks and facing challenges.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Comfortably lead others even without consensus.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "dominance",
+    "field": null
+  },
+  {
+    "question": "Prefer keeping good relationships over being right.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Value others' opinions more than pushing your own ideas.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Like to support others instead of leading them.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Feel happy contributing from behind the scenes.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Avoid using power to change others' opinions.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Prefer discussing and building agreement.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Listen more than talk in group settings.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Ask others for their opinions before making decisions.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Like convincing others to see things your way.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Confidently share your ideas and opinions.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Comfortably use authority to influence outcomes.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Enjoy leading and guiding others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Effectively communicate ideas to large groups.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Feel confident making decisions for others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Quickly get support for new ideas.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Feel energized by motivating and inspiring people.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "influence",
+    "field": null
+  },
+  {
+    "question": "Prefer deep talks instead of small talk.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Value close relationships more than having many connections.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Avoid arguments to keep peace.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Think about how your words affect others before speaking.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Prefer listening rather than talking in groups.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Try to understand where others are coming from.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Prefer working together rather than competing.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Often make compromises to avoid fights.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Enjoy friendly debates.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Prefer speaking up rather than staying quiet.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Feel okay sharing opinions even if they are different.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Enjoy socializing and meeting new people.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Feel energized by group activities and discussions.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Confidently share your thoughts and ideas in talks.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Quickly adjust to different social situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Enjoy meeting and interacting with new people.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "agreeableness",
+    "field": null
+  },
+  {
+    "question": "Enjoy exploring new ideas and concepts.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Prefer working alone for creative activities.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Value deep thinking and thoughtful conversations.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Feel comfortable with unconventional ideas.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Enjoy thinking about abstract concepts.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Seek knowledge and new experiences on your own.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Prefer focusing deeply on one task rather than multitasking.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Enjoy spending time alone to think and recharge.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Feel excited by new experiences and adventures.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Thrive on meeting new people and socializing.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Feel energized by exploring new places and activities.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Enjoy participating in group activities.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Confidently share your new ideas and views.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Seek variety and change in your daily routine.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Feel motivated by brainstorming with others.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Quickly adjust to new places and situations.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "openness",
+    "field": null
+  },
+  {
+    "question": "Enjoy planning and organizing tasks.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Feel satisfied by completing tasks efficiently.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Prefer a structured and organized approach to work.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Value precision and attention to detail.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Feel comfortable following a routine.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Prefer to plan ahead rather than act spontaneously.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Enjoy setting and achieving specific goals.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Value discipline and self-control.",
+    "test": "personality",
+    "type": "Introvert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Feel motivated by working towards clear objectives.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Enjoy taking initiative in group projects.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Thrive on achieving high standards of performance.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Feel energized by tackling challenging tasks.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Prefer to take charge of organizing group activities.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Enjoy setting ambitious goals and achieving them.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Feel confident leading others to achieve success.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  },
+  {
+    "question": "Thrive on maintaining high levels of productivity.",
+    "test": "personality",
+    "type": "Extrovert",
+    "category": "conscientiousness",
+    "field": null
+  }
+]

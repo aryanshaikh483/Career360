@@ -1,0 +1,534 @@
+[
+  {
+    "question": "Enjoy creating innovative, practical solutions.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Take satisfaction in finding and fixing errors.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Prefer tasks that mix creative and analytical thinking.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Find optimizing systems for performance engaging.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Automating repetitive tasks is satisfying.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Enjoy experimenting with problem-solving approaches.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Skills",
+    "field": "coding"
+  },
+  {
+    "question": "Comfortable managing complex workflows.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "coding"
+  },
+  {
+    "question": "Value collaborating on detailed, systematic projects.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "coding"
+  },
+  {
+    "question": "Excel at breaking down large tasks.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "coding"
+  },
+  {
+    "question": "Skilled at coordinating to achieve goals.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "coding"
+  },
+  {
+    "question": "Prefer following clear processes to meet objectives.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "coding"
+  },
+  {
+    "question": "Excited by learning new programming techniques.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "coding"
+  },
+  {
+    "question": "Enjoy studying algorithms and data structures.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "coding"
+  },
+  {
+    "question": "Quickly adapt to new development environments.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "coding"
+  },
+  {
+    "question": "Interested in how technologies integrate.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "coding"
+  },
+  {
+    "question": "Like keeping up with technology trends.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "coding"
+  },
+   {
+    "question": "Find satisfaction in creating designs that solve user problems.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "design"
+  },
+  {
+    "question": "Enjoy balancing aesthetics and functionality.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "design"
+  },
+  {
+    "question": "Skilled at thinking creatively to find design solutions.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "design"
+  },
+  {
+    "question": "Enjoy experimenting with new design techniques and trends.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "design"
+  },
+  {
+    "question": "Find it rewarding to refine and iterate on designs.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "design"
+  },
+  {
+    "question": "Comfortable working with various design tools to meet goals.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "design"
+  },
+  {
+    "question": "Enjoy collaborating to enhance design concepts.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "design"
+  },
+  {
+    "question": "Skilled at managing timelines and priorities for design projects.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "design"
+  },
+  {
+    "question": "Like applying design principles to create user-friendly experiences.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Application",
+    "field": "design"
+  },
+  {
+    "question": "Enjoy coordinating with teams for design consistency.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "design"
+  },
+  {
+    "question": "Interested in how design impacts user behavior.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "design"
+  },
+  {
+    "question": "Enjoy exploring cultural influences on design.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "design"
+  },
+  {
+    "question": "Like learning about psychological aspects of design.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "design"
+  },
+  {
+    "question": "Quickly understand and apply design guidelines and standards.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "design"
+  },
+  {
+    "question": "Value studying influential designers and trends.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "design"
+  },
+  {
+    "question": "Adept at understanding and empathizing with others perspectives.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy building positive relationships in team settings.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Find it fulfilling to help others develop their skills.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Skilled at motivating and inspiring others to reach their goals.",
+    "test": "general",
+    "type": "Persuading",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy resolving conflicts in a constructive manner.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Effective at negotiating and finding common ground in discussions.",
+    "test": "general",
+    "type": "Persuading",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy convincing others of the value of new ideas or approaches.",
+    "test": "general",
+    "type": "Persuading",
+    "category": "Skills",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Comfortable adapting communication style to different audiences.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy organizing team activities to enhance collaboration.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Good at facilitating productive discussions in groups.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Like developing strategies to overcome interpersonal challenges.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Skilled at mediating and resolving conflicts within teams.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy learning about emotional intelligence and its impact on interactions.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Interested in exploring different leadership styles and their effectiveness.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Find it important to understand diverse cultural perspectives in communication.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy studying the dynamics of team collaboration.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Interested in understanding how to effectively manage and resolve conflicts.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "soft_skills"
+  },
+  {
+    "question": "Enjoy developing strategies that effectively reach target audiences.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "marketing"
+  },
+  {
+    "question": "Enjoy exploring new marketing channels and tactics.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "marketing"
+  },
+  {
+    "question": "Find satisfaction in creating campaigns that achieve specific goals.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "marketing"
+  },
+  {
+    "question": "Enjoy crafting messages that influence consumer behavior.",
+    "test": "general",
+    "type": "Persuading",
+    "category": "Skills",
+    "field": "marketing"
+  },
+  {
+    "question": "Comfortable managing and coordinating marketing initiatives.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "marketing"
+  },
+  {
+    "question": "Enjoy collaborating with teams to develop and execute marketing plans.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "marketing"
+  },
+  {
+    "question": "Skilled at analyzing data to inform marketing strategies.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Application",
+    "field": "marketing"
+  },
+  {
+    "question": "Like organizing and managing events that promote products or services.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "marketing"
+  },
+  {
+    "question": "Enjoy developing content that aligns with brand messaging.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Application",
+    "field": "marketing"
+  },
+  {
+    "question": "Interested in learning about digital marketing tools and techniques.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "marketing"
+  },
+  {
+    "question": "Enjoy studying consumer psychology and its impact on buying decisions.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "marketing"
+  },
+  {
+    "question": "Find it valuable to understand the competitive landscape in marketing.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "marketing"
+  },
+  {
+    "question": "Like exploring technologies that enhance marketing efforts.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "marketing"
+  },
+  {
+    "question": "Find satisfaction in identifying user needs and creating solutions to meet them.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "product"
+  },
+  {
+    "question": "Enjoy balancing strategic thinking with creative problem-solving.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Skills",
+    "field": "product"
+  },
+  {
+    "question": "Skilled at evaluating and prioritizing product features.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Skills",
+    "field": "product"
+  },
+  {
+    "question": "Enjoy designing products that enhance user experience.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "product"
+  },
+  {
+    "question": "Find it rewarding to iterate on product concepts based on feedback.",
+    "test": "general",
+    "type": "Creating",
+    "category": "Skills",
+    "field": "product"
+  },
+  {
+    "question": "Comfortable working with cross-functional teams to develop products.",
+    "test": "general",
+    "type": "Helping",
+    "category": "Application",
+    "field": "product"
+  },
+  {
+    "question": "Enjoy managing the lifecycle of a product from concept to launch.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "product"
+  },
+  {
+    "question": "Skilled at coordinating efforts to ensure timely delivery of product features.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "product"
+  },
+  {
+    "question": "Like using data to inform product development decisions.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Application",
+    "field": "product"
+  },
+  {
+    "question": "Enjoy developing roadmaps that align with business objectives.",
+    "test": "general",
+    "type": "Organizing",
+    "category": "Application",
+    "field": "product"
+  },
+  {
+    "question": "Interested in learning about product development methodologies.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "product"
+  },
+  {
+    "question": "Enjoy studying market trends to identify new opportunities.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "product"
+  },
+  {
+    "question": "Find it valuable to understand the competitive landscape in product development.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "product"
+  },
+  {
+    "question": "Like exploring technologies that drive product innovation.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "product"
+  },
+  {
+    "question": "Interested in understanding how user feedback informs product decisions.",
+    "test": "general",
+    "type": "Logical Thinking",
+    "category": "Knowledge",
+    "field": "product"
+  }
+]

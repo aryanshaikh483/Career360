@@ -1,0 +1,1570 @@
+[
+  {
+    "question": "I deliver clear and concise messages.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I recognize and respond to non-verbal cues.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "My written communication is free of errors.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I practice active listening in all conversations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I ask questions to clarify any doubts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I provide constructive and respectful feedback.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I adapt my communication style to suit my audience.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I explain complex ideas in a way others can understand.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I feel confident when speaking in public.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I maintain effective communication even in stressful situations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I identify and address communication barriers promptly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I share important information with all relevant parties.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I respect and understand cultural differences in communication.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I handle difficult conversations with tact and sensitivity.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I show empathy when communicating with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "My colleagues feel comfortable approaching me with concerns.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I use digital communication tools effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I encourage open and honest communication within my team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I accept and act upon constructive criticism.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I seek feedback from others to improve my communication skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I use body language effectively to reinforce my messages.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I summarize important points at the end of discussions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Communication",
+    "field": null
+  },
+  {
+    "question": "I support my team members in achieving their goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I value and consider diverse perspectives in team discussions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I prioritize team goals over individual achievements.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I encourage collaboration among team members.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I provide constructive feedback to my team members.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I resolve conflicts within the team positively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I encourage everyone to contribute ideas and opinions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I build strong working relationships with my team members.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I celebrate team successes collectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I use effective collaboration tools and techniques.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I promote joint problem-solving efforts within the team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I embrace shared responsibilities willingly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I encourage my team members to support each other's growth.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I foster trust and mutual respect within the team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I maintain effective communication among team members.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I define clear roles and responsibilities within the team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I effectively utilize the diverse skill sets within the team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I maintain cooperation even under pressure.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I encourage my team members to take ownership of their tasks.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I give positive reinforcement for team contributions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I seek collaboration with other teams when needed.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I demonstrate flexibility in roles and responsibilities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I respect and support team decisions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I align team goals and objectives with the organization's vision.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Teamwork_and_Collaboration",
+    "field": null
+  },
+  {
+    "question": "I approach problems with a systematic and analytical mindset.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I identify the root causes of issues before proposing solutions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I seek innovative and creative solutions to problems.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I generate and evaluate multiple solutions for each problem.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I use effective decision-making techniques in problem-solving.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I document and share problem-solving efforts with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I see challenges as opportunities for improvement.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I seek feedback from others to improve my problem-solving skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I implement and monitor solutions for effectiveness.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I collaborate with others to solve complex problems.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I continuously improve my problem-solving processes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I apply logical reasoning in all problem-solving efforts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I identify and mitigate risks associated with solutions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I use evidence-based approaches to solve problems.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I align my problem-solving efforts with organizational goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I effectively utilize resources in solving problems.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I evaluate and communicate the impact of solutions to stakeholders.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I prioritize problems based on their impact and urgency.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I apply lessons learned from past problems to new challenges.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I lead problem-solving efforts with confidence and authority.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I break down problems into manageable parts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I communicate my problem-solving efforts clearly to all stakeholders.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Problem_Solving",
+    "field": null
+  },
+  {
+    "question": "I inspire and motivate my team members to achieve their best.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I effectively delegate tasks and responsibilities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I maintain open and honest communication with my team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I provide constructive feedback to my team members regularly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I encourage my team members to develop their skills and careers.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I guide my decision-making with ethical considerations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I resolve conflicts within my team fairly and effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I promote a positive and inclusive team culture.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I demonstrate accountability in all actions and decisions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I value and consider my team members' input in decision-making.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I face challenges with confidence and resilience.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I pursue continuous improvement for both myself and my team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I adapt my leadership style based on the needs of my team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I celebrate and recognize my team's successes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I lead by example consistently.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I communicate organizational goals and values effectively to my team.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I develop and implement effective strategies to achieve goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I accept and act upon constructive criticism.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I continuously monitor and improve team performance.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I continuously develop and refine my leadership skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I demonstrate long-term vision and strategic thinking.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Leadership",
+    "field": null
+  },
+  {
+    "question": "I manage my emotional reactions effectively in stressful situations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I show empathy towards others' feelings and perspectives.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I maintain self-awareness of my own emotions and their impact on others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I build and maintain relationships through understanding and respect.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I accept and use constructive feedback for personal growth.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I accurately interpret emotional cues from others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I resolve conflicts with sensitivity and understanding.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I demonstrate adaptability to changing emotional dynamics.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I communicate my emotions effectively to others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I provide emotional support to colleagues and team members.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I give positive reinforcement to boost others' morale.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I use emotional intelligence to enhance teamwork and collaboration.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I show emotional resilience in the face of challenges.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I manage my personal stressors without affecting my professional responsibilities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I give constructive criticism with sensitivity and care.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I respect and understand cultural and emotional differences.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I foster positive emotions in the workplace.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I prioritize the emotional well-being of myself and others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I use emotional intelligence to improve my leadership effectiveness.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I maintain personal and professional boundaries.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I continuously develop and refine my emotional intelligence.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Emotional_Intelligence",
+    "field": null
+  },
+  {
+    "question": "I embrace new challenges and changes positively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I adapt to different roles and responsibilities easily.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I adjust to new processes and technologies effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I maintain flexibility in working hours and conditions when necessary.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I welcome and consider diverse perspectives and ideas.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I learn and apply new skills quickly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I manage changing team dynamics effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I handle unexpected situations confidently.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I remain open-minded to feedback and new ideas.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I adapt to different cultural environments.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I work well with different personality types.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I adjust project plans and timelines smoothly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I accept and act on changes in priorities and goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I show flexibility in decision-making processes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I pursue continuous improvement and innovation.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I adapt to different leadership styles.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I manage sudden changes in workload effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I demonstrate resilience in the face of setbacks and obstacles.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I maintain flexibility in my approach to problem-solving.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I maintain a positive attitude towards learning and development.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I step out of my comfort zone willingly.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Adaptability_and_Flexibility",
+    "field": null
+  },
+  {
+    "question": "I set priorities and organize tasks effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I consistently meet deadlines without last-minute rushes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I minimize distractions to maintain focus on tasks.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I use time management tools and techniques effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I plan and achieve long-term and short-term goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I avoid procrastination by staying proactive.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I maintain a balance between work and personal life.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I delegate tasks to others effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I tackle high-priority tasks first.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I handle interruptions and unexpected tasks efficiently.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I maximize productivity by managing my time well.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I regularly review and adjust my priorities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I make accurate and realistic time estimates for tasks.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I maintain a structured approach to managing my workload.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I set achievable deadlines for tasks and projects.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I track and assess the time spent on various activities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I avoid multitasking and focus on one task at a time.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I allocate sufficient time for breaks and rest.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I continuously seek ways to improve my time management skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I develop and follow a daily or weekly schedule.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I manage time effectively during meetings and collaborative sessions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I stay organized with a clear plan of action.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I adapt my time management strategies to different types of tasks.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I reflect on my time management practices and seek improvements.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Time_Management",
+    "field": null
+  },
+  {
+    "question": "I consistently deliver high-quality work.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I maintain integrity and honesty in all my work.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I demonstrate reliability and dependability in my role.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I show commitment and dedication to my job.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I adhere to organizational policies and procedures.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I approach tasks with a strong sense of duty and professionalism.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I seek continuous improvement in my work.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I maintain a positive attitude towards work challenges.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I respect deadlines and work schedules.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I show initiative in identifying and addressing work issues.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I follow through on commitments and promises.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I demonstrate a strong work ethic in all tasks and projects.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I prioritize my tasks effectively to meet work objectives.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I seek feedback and act on it to improve my performance.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I maintain a high level of accuracy and attention to detail.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I demonstrate professionalism in all interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I balance workload effectively to avoid burnout.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I contribute positively to the work environment.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I show dedication to achieving organizational goals.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I handle responsibilities with integrity and accountability.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I adapt to changes in work requirements and priorities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I maintain consistency and reliability in my work.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I seek out opportunities for professional development.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I approach all tasks with a sense of purpose and responsibility.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Work_Ethic",
+    "field": null
+  },
+  {
+    "question": "I address conflicts promptly and effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I listen to all parties involved in a conflict without bias.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I remain calm and composed during conflict situations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I seek mutually beneficial solutions to conflicts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I use effective communication techniques to resolve disputes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I demonstrate empathy and understanding towards conflicting parties.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I identify the root causes of conflicts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I encourage open dialogue to resolve conflicts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I mediate conflicts by facilitating constructive discussions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I maintain neutrality and fairness during conflict resolution.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I involve relevant stakeholders in the conflict resolution process.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I document and follow up on conflict resolution outcomes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I use conflict resolution strategies to prevent future disputes.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I provide support and guidance to those involved in conflicts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I address conflicts in a way that preserves relationships.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I seek feedback from involved parties to improve conflict resolution skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I adapt conflict resolution techniques to different situations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I use active listening skills to understand all perspectives.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I maintain a positive attitude towards conflict resolution.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I apply conflict resolution techniques consistently.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I handle conflicts with sensitivity and respect.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I seek resolution strategies that align with organizational values.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I use mediation skills to facilitate compromise and agreement.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I promote a culture of open communication to reduce conflicts.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Conflict_Resolution",
+    "field": null
+  },
+  {
+    "question": "I build and maintain positive relationships with colleagues and clients.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I demonstrate effective collaboration with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I maintain respectful and professional behavior in all interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I use effective communication skills to build rapport with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I practice active listening and understanding in conversations.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I demonstrate strong teamwork and cooperation skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I maintain cultural sensitivity and respect in interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I build trust and credibility with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I give positive reinforcement and encouragement to others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I show flexibility in working with different personality types.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I demonstrate strong networking skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I show willingness to help and support others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I demonstrate effective conflict resolution skills in interpersonal interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I understand and manage group dynamics effectively.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I practice collaborative problem-solving with others.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I maintain a positive attitude and demeanor in interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I show respect for others' opinions and ideas in interactions.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I use social skills effectively in building relationships.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I show willingness to give and receive constructive feedback.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I actively engage and participate in team activities.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  },
+  {
+    "question": "I pursue continuous improvement in my interpersonal skills.",
+    "test": "soft_skills",
+    "type": null,
+    "category": "Interpersonal_Skills",
+    "field": null
+  }
+]

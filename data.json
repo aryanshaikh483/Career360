@@ -1,0 +1,95 @@
+{
+  "user_id": "user123",
+  "personalityAnswers": {
+    "interpersonal_skills-0": "strongly-agree",
+    "interpersonal_skills-1": "agree",
+    "interpersonal_skills-2": "neutral",
+    "interpersonal_skills-3": "disagree",
+    "interpersonal_skills-4": "strongly-disagree",
+    "stress_handling-5": "strongly-disagree",
+    "stress_handling-6": "strongly-agree",
+    "stress_handling-7": "strongly-agree",
+    "stress_handling-8": "strongly-agree"
+  },
+  "personalityScores": {
+    "Introvert": 50,
+    "Extrovert": 50
+  },
+  "personalityCategoryScores": {
+    "interpersonal_skills": 50,
+    "stress_handling": 60,
+    "leadership": 0,
+    "dominance": 0,
+    "influence": 0,
+    "agreeableness": 0,
+    "openness": 0,
+    "conscientiousness": 0
+  },
+  "soft_SkillsAnswers": {
+    "Communication-0": "agree",
+    "Communication-1": "agree",
+    "Communication-3": "agree",
+    "Communication-4": "agree"
+  },
+  "soft_SkillScores": {
+    "Communication": 80,
+    "Teamwork_and_Collaboration": 0,
+    "Problem_Solving": 0,
+    "Leadership": 0,
+    "Emotional_Intelligence": 0,
+    "Adaptability_and_Flexibility": 0,
+    "Time_Management": 0,
+    "Work_Ethic": 0,
+    "Conflict_Resolution": 0,
+    "Interpersonal_Skills": 0
+  },
+  "careerAnswers": {
+    "Creating-0": "yes",
+    "Logical Thinking-1": "yes",
+    "Logical Thinking-2": "yes",
+    "Creating-3": "yes",
+    "Creating-4": "yes",
+    "Logical Thinking-5": "yes",
+    "Organizing-6": "yes",
+    "Organizing-41": "yes",
+    "Logical Thinking-44": "yes",
+    "Logical Thinking-47": "yes",
+    "Organizing-52": "yes",
+    "Logical Thinking-54": "yes",
+    "Logical Thinking-62": "yes",
+    "Logical Thinking-60": "yes",
+    "Creating-65": "yes",
+    "Organizing-67": "yes"
+  },
+  "careerScores": {
+    "Creating": 4,
+    "Logical Thinking": 8,
+    "Helping": 0,
+    "Organizing": 4,
+    "Persuading": 0
+  },
+  "diffScores": {
+    "Creating": 12,
+    "Logical Thinking": 23,
+    "Helping": 12,
+    "Organizing": 9,
+    "Persuading": 4
+  },
+  "progressScores": {
+    "Skills": 8,
+    "Knowledge": 3,
+    "Application": 5
+  },
+  "progressCountScores": {
+    "Skills": 27,
+    "Knowledge": 24,
+    "Application": 25
+  },
+  "fieldScores": {
+    "coding": 7,
+    "design": 0,
+    "soft_skills": 3,
+    "marketing": 3,
+    "product": 3
+  }
+}
