@@ -89,6 +89,52 @@ const SoftSkills: React.FC = () => {
   const [user_id, setUserId] = useState("user123");
   const [isReadyToSave, setIsReadyToSave] = useState(false);
 
+  
+  // Function to load answers from sessionStorage when the page loads or changes
+  const loadAnswersFromStorage = useCallback(() => {
+    const storedAnswers: { [key: string]: string } = {};
+    let index = 0;
+    Object.entries(questionArray).forEach(([category, questions]) => {
+      questions.forEach((question) => {
+        const key = `${category}-${index}`;
+        const storedAnswer = sessionStorage.getItem(key);
+        if (storedAnswer) {
+          storedAnswers[key] = storedAnswer;
+        }
+        index++;
+      });
+    });
+    setsoft_SkillsAnswers(storedAnswers);
+  }, [questionArray]);
+  
+  // Load answers from storage when the component mounts
+  useEffect(() => {
+    if (Object.keys(questionArray).length > 0) {
+      loadAnswersFromStorage();
+    }
+  }, [loadAnswersFromStorage, currentPage, questionArray]);
+
+  useEffect(() => {
+    if (isReadyToSave) {
+      const handleSave = async () => {
+        try {
+          await axios.put(`/api/results/${user_id}`, {
+            soft_SkillsAnswers: soft_SkillsAnswers,
+            soft_SkillScores: softSkillsScoresPercent,
+          });
+
+          console.log("Data saved successfully!");
+        } catch (err) {
+          console.error("Error saving data:", err);
+        }
+      };
+
+      handleSave();
+      setIsReadyToSave(false);
+    }
+  }, [isReadyToSave, soft_SkillsAnswers, softSkillsScoresPercent, user_id]);
+
+
   if (!questionArray) {
     return <div className="text-center py-10">Loading questions...</div>;
   }  
@@ -108,29 +154,9 @@ const SoftSkills: React.FC = () => {
     sessionStorage.setItem(`${category}-${index}`, value);
   };
 
-  // Function to load answers from sessionStorage when the page loads or changes
-  const loadAnswersFromStorage = useCallback(() => {
-    const storedAnswers: { [key: string]: string } = {};
-    let index = 0;
-    Object.entries(questionArray).forEach(([category, questions]) => {
-      questions.forEach((question) => {
-        const key = `${category}-${index}`;
-        const storedAnswer = sessionStorage.getItem(key);
-        if (storedAnswer) {
-          storedAnswers[key] = storedAnswer;
-        }
-        index++;
-      });
-    });
-    setsoft_SkillsAnswers(storedAnswers);
-  }, [questionArray]);
+  
 
-  // Load answers from storage when the component mounts
-  useEffect(() => {
-    if (Object.keys(questionArray).length > 0) {
-      loadAnswersFromStorage();
-    }
-  }, [loadAnswersFromStorage, currentPage]);
+  
 
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
@@ -212,26 +238,7 @@ const SoftSkills: React.FC = () => {
     setShowChart(true);
   };
 
-  useEffect(() => {
-    if (isReadyToSave) {
-      const handleSave = async () => {
-        try {
-          await axios.put(`/api/results/${user_id}`, {
-            soft_SkillsAnswers: soft_SkillsAnswers,
-            soft_SkillScores: softSkillsScoresPercent,
-          });
-
-          console.log("Data saved successfully!");
-        } catch (err) {
-          console.error("Error saving data:", err);
-        }
-      };
-
-      handleSave();
-      setIsReadyToSave(false);
-    }
-  }, [isReadyToSave, soft_SkillsAnswers, softSkillsScoresPercent, user_id]);
-
+  
   const handleNext = () => {
     router.push("/general");
   };

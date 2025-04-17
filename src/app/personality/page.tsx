@@ -1,7 +1,10 @@
 "use client";
 
 import React, { useCallback, useEffect, useState } from "react";
-import { fetchAndProcessQuestions , PersonalityTrait } from "@/app/data/personality";
+import {
+  fetchAndProcessQuestions,
+  PersonalityTrait,
+} from "@/app/data/personality";
 import { Button } from "@/components/ui/button";
 import {
   AlertDialog,
@@ -63,38 +66,20 @@ const Personality: React.FC = () => {
   });
   const [showChart, setShowChart] = useState(false);
   const [questionArray, setQuestionArray] = useState<
-  Record<string, PersonalityTrait[]>
->({});
+    Record<string, PersonalityTrait[]>
+  >({});
+  const [currentPage, setCurrentPage] = useState(1);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isReadyToSave, setIsReadyToSave] = useState(false);
+  const [user_id, setUserId] = useState("user123");
   useEffect(() => {
     const getQuestions = async () => {
       const questions = await fetchAndProcessQuestions();
       setQuestionArray(questions);
     };
     getQuestions();
-  }, []);  
-  const [currentPage, setCurrentPage] = useState(1);
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [isReadyToSave, setIsReadyToSave] = useState(false);
-  const [user_id, setUserId] = useState("user123");
+  }, []);
 
-  if (!questionArray) {
-    return <div className="text-center py-10">Loading questions...</div>;
-  }  
-
-  const totalQuestions = Object.values(questionArray).flat().length;
-  const QUESTIONS_PER_PAGE = 20;
-
-  const totalPages = Math.ceil(totalQuestions / QUESTIONS_PER_PAGE);
-
-  const handleChange = (category: string, index: number, value: string) => {
-    if (!showChart) {
-      setPersonalityAnswers((prev) => ({
-        ...prev,
-        [`${category}-${index}`]: value,
-      }));
-    }
-    sessionStorage.setItem(`${category}-${index}`, value);
-  };
 
   // Function to load answers from sessionStorage when the page loads or changes
   const loadAnswersFromStorage = useCallback(() => {
@@ -112,14 +97,67 @@ const Personality: React.FC = () => {
     });
     setPersonalityAnswers(storedAnswers);
   }, [questionArray]);
-
-  // Load answers from storage when the component mounts
-  useEffect(() => {
+  
+   // Load answers from storage when the component mounts
+   useEffect(() => {
     if (Object.keys(questionArray).length > 0) {
       loadAnswersFromStorage();
     }
-  }, [loadAnswersFromStorage, currentPage]);
+  }, [loadAnswersFromStorage, currentPage, questionArray]);
 
+  useEffect(() => {
+    if (isReadyToSave) {
+      const handleSave = async () => {
+        try {
+          await axios.post("/api/results", {
+            user_id,
+            personalityAnswers,
+            personalityScores: personalityScoresPercent,
+            personalityCategoryScores: personalityCategoryScoresPercent,
+          });
+          console.log("Data saved successfully!");
+        } catch (err) {
+          console.error("Error saving data:", err);
+        } finally {
+          setIsSubmitting(false);
+        }
+      };
+
+      handleSave();
+      setIsReadyToSave(false);
+    }
+  }, [
+    isReadyToSave,
+    personalityAnswers,
+    personalityScoresPercent,
+    personalityCategoryScoresPercent,
+    user_id,
+  ]);
+
+  
+
+  if (!questionArray) {
+    return <div className="text-center py-10">Loading questions...</div>;
+  }
+
+  const totalQuestions = Object.values(questionArray).flat().length;
+  const QUESTIONS_PER_PAGE = 20;
+
+  const totalPages = Math.ceil(totalQuestions / QUESTIONS_PER_PAGE);
+
+  const handleChange = (category: string, index: number, value: string) => {
+    if (!showChart) {
+      setPersonalityAnswers((prev) => ({
+        ...prev,
+        [`${category}-${index}`]: value,
+      }));
+    }
+    sessionStorage.setItem(`${category}-${index}`, value);
+  };
+
+  
+
+ 
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
 
@@ -199,14 +237,17 @@ const Personality: React.FC = () => {
       });
     });
 
-    personalityNewScoresPercent["Introvert"] =
-      Math.round((personalityNewScores["Introvert"] / totalQuestions) * 100);
-    personalityNewScoresPercent["Extrovert"] =
-      Math.round((personalityNewScores["Extrovert"] / totalQuestions) * 100);
+    personalityNewScoresPercent["Introvert"] = Math.round(
+      (personalityNewScores["Introvert"] / totalQuestions) * 100
+    );
+    personalityNewScoresPercent["Extrovert"] = Math.round(
+      (personalityNewScores["Extrovert"] / totalQuestions) * 100
+    );
 
     Object.entries(questionArray).forEach(([category, questions]) => {
-      personalityNewCategoryScoresPercent[category] =
-        Math.round((personalityNewCategoryScores[category] / 5) * 100);
+      personalityNewCategoryScoresPercent[category] = Math.round(
+        (personalityNewCategoryScores[category] / 5) * 100
+      );
     });
 
     setPersonalityScores(personalityNewScores);
@@ -218,34 +259,7 @@ const Personality: React.FC = () => {
     setIsReadyToSave(true);
   };
 
-  useEffect(() => {
-    if (isReadyToSave) {
-      const handleSave = async () => {
-        try {
-          await axios.post("/api/results", {
-            user_id,
-            personalityAnswers,
-            personalityScores: personalityScoresPercent,
-            personalityCategoryScores: personalityCategoryScoresPercent,
-          });
-          console.log("Data saved successfully!");
-        } catch (err) {
-          console.error("Error saving data:", err);
-        } finally {
-          setIsSubmitting(false);
-        }
-      };
-
-      handleSave();
-      setIsReadyToSave(false);
-    }
-  }, [
-    isReadyToSave,
-    personalityAnswers,
-    personalityScoresPercent,
-    personalityCategoryScoresPercent,
-    user_id,
-  ]);
+  
 
   const nextPage = () => {
     setCurrentPage(currentPage + 1);
@@ -419,7 +433,7 @@ const Personality: React.FC = () => {
                     <AlertDialogDescription className="flex flex-col justify-center items-center w-full">
                       {showChart &&
                         (personalityScores.Introvert >
-                          personalityScores.Extrovert ? (
+                        personalityScores.Extrovert ? (
                           <div className="text-center">
                             It looks like you are an Introvert &#129323;{" "}
                             continue to know more about yourself...
